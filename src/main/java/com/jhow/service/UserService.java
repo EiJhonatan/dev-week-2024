@@ -1,6 +1,6 @@
-package me.dio.service;
+package com.jhow.service;
 
-import me.dio.domain.model.User;
+import com.jhow.domain.model.User;
 
 public interface UserService {
 

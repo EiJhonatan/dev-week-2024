@@ -1,8 +1,8 @@
-package me.dio.service.impl;
+package com.jhow.service.impl;
 
-import me.dio.domain.model.User;
-import me.dio.domain.repository.UserRepository;
-import me.dio.service.UserService;
+import com.jhow.domain.model.User;
+import com.jhow.domain.repository.UserRepository;
+import com.jhow.service.UserService;
 import org.springframework.stereotype.Service;
 
 import java.util.NoSuchElementException;
