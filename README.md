@@ -1,6 +1,6 @@
 # Dev Week 2024
 
-Java RESTful API criada para Dev Week.
+Java RESTful API criada para Dev Week 2024.
 
 
 ## Diagrama de Classes (Domínio da API)
